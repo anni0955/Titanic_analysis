@@ -12,7 +12,7 @@ Numerical Columns(Age, Fare)
 Imputation: fill the missing values with the mean of the train & test data
 Scaling: Standard Scaler to normanlize the data distribution
 
-Categorical Columns(Sex, Pclass, Embarked)
+Categorical Columns(Sex, Embarked)
 Imptation: Missing values were filled by the most frequent values(Mode)
 Encoding: One-Hot encoding was done 
 
